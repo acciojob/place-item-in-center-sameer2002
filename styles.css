@@ -1,2 +1,23 @@
+body{
+    background-color: rgb(194, 194, 194);
+}
+.holder{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   flex-wrap: wrap;
+}
+
+.item-1{
+    background-color: green;
+    height: 250px;
+    width: 250px;
+}
+
+.Num-Para{
+   margin: 10px;
+   text-align: center;
+   font-size: 4rem;
+}
 
 /* Your CSS Code here. */
